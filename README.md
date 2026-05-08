@@ -5,3 +5,11 @@ O SisGESC (Sistema de Gestão Escolar) é um projeto criado para simular o funci
 # Estrutura
 SQL :  Contém os scripts divididos por fases do projeto.
 run_all.sql: Script unificado para rodar todo o projeto com um único comando.
+
+# Como executar nosso trabalho
+1- Fase 1
+2- Fase2
+3- Operações OLTP
+4- Fase 4
+5- Performace
+6- executar tudo
